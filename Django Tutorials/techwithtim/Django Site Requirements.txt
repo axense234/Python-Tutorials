@@ -1,0 +1,5 @@
+-you must create an urls.py in the directory of your app
+-you must install your apps in settings.py(INSTALLED_APPS)
+-you must create a templates folder inside your app then create a folder inside the templates folder with the name of the app
+-you must create a html file with the name base inside app-templates-app folder
+-you must create forms.py in the main app

@@ -1,0 +1,36 @@
+Login System(Done):
+A system that checks if an user has an account or not then logins them or offers to make a new account,which should be saved for the next time the system checks if the user
+has an account or not.
+
+Blackjack Game(Done):
+A player draws 2 cards,a dealer draws the same amount of cards,but 1 is hidden from the player.The goal of the game is to get as close to 21 as possible without going over 22.
+If the player gets a sum of 21 on the first draw and the dealer doesnt also draw one,the player gets 150% of their original bet.If both the player get a 21 on the first round,
+the player loses.On the second hand,the player has some options available:
+-Hitting(to draw a card;if the player's sum after hitting is more than 22,he loses,otherwise he can Hit again or Stand)
+-Standing(skipping the turn)
+-Splitting(when the player has 2 of the same card in the first round,they can split their hand,doubling their chances of losing/winning(
+-Doubledown(2x your bet on the first round,draw a card,but then you cant draw anymore)
+The dealer has an algorithm that allows him to play.If the dealer's sum is less than 17,he draws a card untill he hits 17,otherwise he stand)
+If the player/dealer didnt bust or win by Blackjack,at the end of the game their sum's are compared,and the one with the most points close to 21 wins.
+
+Turtle Projects:
+Turtle Race(Done):
+Turtles all go to a the starting line,prepare for racing,race,then
+who wins gets a point in a text file.Random colours,pen size,scheme.Based on the points,the program prints the
+champion's places(1st, 2nd, 3rd).
+
+Turtle Hot Snake Game(Failure: due to title changing mechanics):
+You control a turtle(snake) and direct it towards the water(another turtle making it).You have a certain time
+every round before Game Over.Every round that has been won by the player increases the player speed and reduces
+the time allowed for the round,till it hits a max.The time is shown in the title of the game.Also Deaths shows
+there too,together with Wins.
+
+Tic Tac Toe Game(Done):
+A tic tac toe game against a logical opponent.
+
+Mathsite(done):
+Building an Website based on Python(Using HTML,django):
+Steps:
+-learn HTML(https://www.youtube.com/watch?v=pQN-pnXPaVg)
+-learn django(https://www.youtube.com/watch?v=sm1mokevMWk)
+-build an website(transforming an text app to a web app)

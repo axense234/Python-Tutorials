@@ -1,0 +1,108 @@
+Python Begginer Course(https://www.youtube.com/watch?v=rfscVS0vtbw):
+
+-done Introduction
+-done Installing Python & PyCharm
+-done Setup & Hello World
+-done Drawing a Shape
+-done Variables & Data Types
+-done Working With Strings
+-done Working With Numbers
+-done Getting Input From Users
+-done Building a Basic Calculator
+-done Mad Libs Game
+-done Lists
+-done List Functions
+-done Tuples
+-done Functions
+-done Return Statement
+-done If Statements
+-done If Statements and Comparisons
+-done Building a Better Calculator
+-done Dictionaries
+-done While Loop
+-done Building a Guessing Game
+-done For Loop
+-done Exponent Function
+-done 2D Lists and Nested Loops
+-done Build a Translator
+-done Comments
+-done Try and Except
+-done Reading Files
+-done Writing to Files
+-done Modules and Pip
+-done Classes and Objects
+
+Python Full Course(https://www.youtube.com/watch?v=sxTmJE4k0ho&t):
+
+-done Variables & Data Types                        
+-done Basic Operators & Input                                                                                 
+-done Conditions                                                                                        
+-done if-elif-else
+-done Chained Conditionals & Nested Statements
+-done For Loops
+-done While Loops
+-done List's and Tuples
+-done Iteration by Item
+-done String Methods
+-done Slice Operator
+-done Functions
+-done How to Read a Text File
+-done Writing to a Text File
+-done Using .count() and .find()
+-done Introduction to Modular Programming
+-done Optional Parameters
+-done Try and Except (Error Handling)
+-done Global vs Local Variables
+
+-done Introduction to Objects
+-done Creating Classes
+-done Inheritance
+-done Overloading Methods
+-done Static Methods and Class Methods
+-done Private and Public Classes
+
+-done Optional Parameters
+-done Static and Class Methods
+-done Map Function
+-done Filter Function
+-done Lambda Functions
+-done Introduction to Collections
+-done Named Tuple
+-done Deque
+
+Python Turtle Course(https://www.youtube.com/watch?v=p7CiFhiTdvY):
+-done Turtle Introduction
+-done Shapes and Fills
+-done Key Presses and Events
+-done Drawing with Mouse
+
+Python Django Course(https://www.youtube.com/watch?v=sm1mokevMWk&t):
+-done Setup,Installation and Page Navigation
+-done SQLite3 Database Tutorial
+-done Admin Dashboard
+-done Templates and Costum HTML
+-done How to Add a Sidebar
+-done How to Add Bootstrap
+-done User Registration & Sign Up Page
+-done Login, Logout and User Authentication
+-done User Specific Pages/Access
+
+Python BeautifulSoup Course(https://www.youtube.com/watch?v=XVv6mJpFOb0):
+-done Basic HTML Structure, HTML Tags Explanation
+-done Packages Installation
+-done Scraping Usage, Local files
+-done Beautiful Soup find & find_all() methods
+-done Web Browser Inspect tool
+-done Grab all Prices, Basic Scraping Project
+-done Using the Requests Library to see a Website's HTML  
+-done Scraping a Production Website, Best practices for pulling info
+-done Looping through similar soup.find_all() objects
+-done Prettifying the Jobs paragraph
+-done Jobs Filtration by owned skills
+-done Setting up the Project to scrape every 10 minutes
+-done Storing the jobs paragraph in text files
+
+Python Pygame Beginner Course(https://www.youtube.com/watch?v=jO6qQDNa2UY):
+-done Intro to Pygame
+-done Installing Pygame
+-done Working with Pygame

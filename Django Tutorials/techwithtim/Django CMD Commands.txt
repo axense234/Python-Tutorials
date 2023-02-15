@@ -1,0 +1,18 @@
+-cd(change directory)-general command
+
+-django-admin startproject *name of project*----------------------------------------(creates a project)
+-python manage.py runserver----------------------------------------(runs the project server)
+-python manage.py startapp *app name*----------------------------------------(creates an app in the project)
+-python manage.py migrate----------------------------------------(makes changes to the project)
+-python manage.py makemigrations *app name*----------------------------------------(to create models;use migrate after)
+
+-python manage.py shell----------------------------------------(enter a python shell)
+      -.save()
+      -*Class*.objects.all()
+      -*Class*.objects.get(id=number)
+      -*Class*.objects.get(name= something)
+      -*Object*.item_set.all()
+      -*Object*.item_set.create(text="something")
+      -*Class*.objects.filter(name__startwith="Tim") or (id=number)
+      -del_object =*Class*.object.get(id=number)
+      -python manage.py create superuser
